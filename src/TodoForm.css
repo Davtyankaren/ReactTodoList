@@ -1,0 +1,27 @@
+.formINPUT {
+    width: 73%;
+    background-color: white;
+    border: none;
+    outline: none;
+    height: 30px;
+    font-size: 25px;
+    margin-left: 15px;
+    padding-left: 10px;
+}
+
+.AddBTN {
+    color: seagreen;
+    cursor: pointer;
+    width: 40px;
+    font-size: 35px;
+    position: absolute;
+    top: 42px;
+    background-color: black;
+    border: none;
+    font-weight: bolder;
+    left: 770px;
+}
+
+.AddBTN:hover { 
+    color: rgb(65, 221, 44);
+}

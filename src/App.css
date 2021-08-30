@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(199, 186, 186);
+}
+
+.App {
+  width: 300px;
+  height: 500px;
+  background-color:#282c34;
+  padding-top: 10px;
+  border: 10px solid seagreen;
+  margin-left: 37%;
+  margin-top: 2%;
+  box-shadow: black;
+}
+
+hr {
+  border: 1px solid seagreen;
+}
+

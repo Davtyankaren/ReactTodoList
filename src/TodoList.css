@@ -1,0 +1,16 @@
+div {
+    color: white;
+    font-size: 18px;
+    font-family: Arial;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.selected {
+    font-size: 15px;
+    border: 1px solid seagreen;
+    padding: 3px 5px;
+    text-align: left;
+    margin-left: 0%;
+}
+
